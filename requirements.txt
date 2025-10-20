@@ -1,0 +1,8 @@
+%%writefile /content/drive/MyDrive/mammogram_project/requirements.txt
+streamlit
+torch
+torchvision
+segmentation-models-pytorch
+opencv-python
+pillow
+numpy
