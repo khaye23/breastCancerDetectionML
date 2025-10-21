@@ -5,4 +5,5 @@ segmentation-models-pytorch
 opencv-python
 pillow
 numpy
+matplotlib
 
